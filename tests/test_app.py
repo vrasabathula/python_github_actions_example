@@ -12,3 +12,4 @@ from app import index
 
 def test_index():
     assert index() == "Welcomr to my first flask app"
+
